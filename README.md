@@ -6,10 +6,10 @@ Pour un bon fonctionnement de l'outil, tous les arguments suivants doivent être
 
 Arguments :
 
-● -i [str] : fichier contenant les reads au format fasta
-● -g [str] : fichier contenant le génome au format fasta
-● -t [int] : Le seuil de solidité, tous les k-mers ayant un nombre d'occurrence supérieur à ce seuil sont conservés.
-● -k [int] : la taille des k-mers
+- -i [str] : fichier contenant les reads au format fasta
+- -g [str] : fichier contenant le génome au format fasta
+- -t [int] : Le seuil de solidité, tous les k-mers ayant un nombre d'occurrence supérieur à ce seuil sont conservés.
+- -k [int] : la taille des k-mers
 
 Exemple de commande :
 
